@@ -12,7 +12,10 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+• HTML
+• CSS
+• Python
+• C
 
 <p align="center">
   Obrigado por visitar meu perfil! 😊<br>
