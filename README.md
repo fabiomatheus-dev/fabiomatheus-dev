@@ -6,3 +6,8 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Jaboatão
 📚 Estudando JavaScript, HTML, CSS e desenvolvimento fullstack
 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+<p align="center">
+  Obrigado por visitar meu perfil! 😊<br>
+  Sinta-se à vontade para explorar meus repositórios.
+</p>
