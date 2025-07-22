@@ -2,10 +2,10 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 
 ## Sobre mim
 
-🖥️ Graduando do último período em Engenharia Biomédica
-🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Jaboatão
-📚 Estudando JavaScript, HTML, CSS e desenvolvimento fullstack
-🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+• 🖥️ Graduando do último período em Engenharia Biomédica
+• 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Jaboatão
+• 📚 Estudando JavaScript, HTML, CSS e desenvolvimento fullstack
+• 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ### 🛠️ Tecnologias e Ferramentas
 
