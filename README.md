@@ -8,7 +8,7 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 
       • 📚 Estudando JavaScript, HTML, CSS e desenvolvimento fullstack
 
-      •  🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+      • 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ### 🛠️ Tecnologias e Ferramentas
 
