@@ -7,6 +7,10 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 📚 Estudando JavaScript, HTML, CSS e desenvolvimento fullstack
 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
+### 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 <p align="center">
   Obrigado por visitar meu perfil! 😊<br>
   Sinta-se à vontade para explorar meus repositórios.
