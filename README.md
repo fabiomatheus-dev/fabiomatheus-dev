@@ -12,13 +12,13 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 
 ### 🛠️ Tecnologias e Ferramentas
 
-      • HTML
+      • 🌐 HTML
 
-      • CSS
+      • 🎨 CSS
 
-      • Python
+      • 🐍 Python
 
-      • C
+      • ⚙️ C
 
 <p align="center">
   Obrigado por visitar meu perfil! 😊<br>
