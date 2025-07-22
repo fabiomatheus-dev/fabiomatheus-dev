@@ -13,8 +13,11 @@ Desenvolvedor em formação. Busco ter bastante comprometimento e proatividade p
 ### 🛠️ Tecnologias e Ferramentas
 
 • HTML
+
 • CSS
+
 • Python
+
 • C
 
 <p align="center">
